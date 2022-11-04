@@ -9,4 +9,5 @@ app_file: app.py
 pinned: false
 ---
 
+Try Whisper AI Tagalog translation at https://huggingface.co/spaces/rsandagon/whisper_tagalog
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
